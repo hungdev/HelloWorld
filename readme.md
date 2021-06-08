@@ -3,8 +3,10 @@
 How to use:
 
 ```
-npx react-native init test --template https://github.com/hungdev/HelloWorld.git
+npx react-native init YourProjectName --template https://github.com/hungdev/HelloWorld.git
 ```
+
+> Dont forget change YourProjectName
 
 ## This template use some libraries:
 
